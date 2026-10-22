@@ -1,0 +1,10 @@
+# Original files kept locally, organized copies live in sql/ and docs/
+/f148996.sql
+/SportAgora_final.pdf
+/teretana_schema*.sql
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
